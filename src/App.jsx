@@ -102,7 +102,6 @@ export const App = () => {
             type="button"
             className="button is-danger is-light"
             onClick={() => handleReset()}
-            hidden
           >
             Reset
           </button>
